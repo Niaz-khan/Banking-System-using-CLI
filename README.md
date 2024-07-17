@@ -34,7 +34,7 @@ Contributing
 Contributions are welcome! Please fork the repository and submit pull requests with improvements, bug fixes, or new features.
 
 License
-MIT - Specify the license under which the project is distributed.
+MIT
 
 Acknowledgements
 Credits to any individuals or organizations whose code or resources were used.
